@@ -90,13 +90,6 @@ The **Smart Shopping Cart App** is an innovative IoT-based solution designed to 
 
 
 
-## **Team Members**
-
-- **Vedant Patil**
-- **Vasundhara Gadakh**
-- **Sudhir Bagad**
-- **Mayuri Phad**
-- **Vijay Misal**
 
 ---
 
