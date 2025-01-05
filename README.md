@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, feel free to reach out:
 
-- Email: vijay.22320079@viit.ac.in
-- LinkedIn: https://www.linkedin.com/in/vijaymisal/
+- Email: mohitekaran18@gmail.com
+- LinkedIn: https://www.linkedin.com/in/karan-mohite/
 
 
